@@ -1,0 +1,21 @@
+#pragma once
+
+// SDK GENERATE BY TELEGRAM ;- (@Manish8x) (4.3.0 -- 64Bit) DM TO BUY TOOL AVLABLE FOR SELL
+// Telegram:- @Manish8x
+// GEN ONThu Mar 19 07:20:48 2026
+ 
+#include "../SDK.hpp"
+
+namespace SDK
+{
+//---------------------By Tg @Manish8x---------------------------
+//Parameters
+//---------------------By Tg @Manish8x---------------------------
+
+// Function GeneralNode.GNSharedDelegate.EventTrigger
+struct UGNSharedDelegate_EventTrigger_Params
+{
+};
+
+}
+
